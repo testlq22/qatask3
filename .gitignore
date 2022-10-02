@@ -1,0 +1,5 @@
+node_modules/
+/test-results/
+e2e/
+/allure-results/
+package-lock.json

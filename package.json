@@ -6,6 +6,6 @@
     "cypress": "^10.9.0"
   },
   "cypress-cucumber-preprocessor": {
-    "stepDefinitions": "cypress/e2e/cucumber-test/**/*.{js,ts}"
+    "stepDefinitions": "cypress/tests/**/*.{js,ts}"
   }
 }
