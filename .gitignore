@@ -1,7 +1,10 @@
 node_modules/
 /test-results/
-
+e2e/
 /allure-results/
 /allure-report/
-
+cypress/downloads/
+cypress/fixtures/
+cypress/plugin/
+cypress/screenshots/
 package-lock.json
